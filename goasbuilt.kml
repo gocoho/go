@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="kml2gmaps.xsl"?>
 <kml xmlns="http://earth.google.com/kml/2.1">
 <Document>
 	<name>goasbuilt.kml</name>
