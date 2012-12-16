@@ -3317,7 +3317,7 @@
 			<name>Path lighting</name>
 			<Placemark>
 				<name>75W Transformer 1 phase 1</name>
-				<LookAt>
+				<TimeStamp><when>2010-11-15T19:31:59Z</when></TimeStamp>				<LookAt>
 					<longitude>-83.81774537007753</longitude>
 					<latitude>42.27927769476056</latitude>
 					<altitude>0</altitude>
@@ -3333,7 +3333,7 @@
 			</Placemark>
 			<Placemark>
 				<name>75W transformer 2 Phase 1</name>
-				<LookAt>
+				<TimeStamp><when>2010-11-15T19:31:59Z</when></TimeStamp>				<LookAt>
 					<longitude>-83.81745031594778</longitude>
 					<latitude>42.27887956959304</latitude>
 					<altitude>0</altitude>
@@ -3349,6 +3349,7 @@
 			</Placemark>
 			<Placemark>
 				<name>300W transformer 1 phase 2</name>
+				<TimeStamp><when>2012-12-03T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81740503979758</longitude>
 					<latitude>42.27897755324503</latitude>
@@ -3365,6 +3366,7 @@
 			</Placemark>
 			<Placemark>
 				<name>300W transformer 2 phase 2</name>
+				<TimeStamp><when>2012-12-03T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81804660119708</longitude>
 					<latitude>42.27901445399951</latitude>
@@ -3381,6 +3383,7 @@
 			</Placemark>
 			<Placemark>
 				<name>LED LV light</name>
+				<TimeStamp><when>2010-11-15T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81764703363153</longitude>
 					<latitude>42.27895316972273</latitude>
@@ -3397,6 +3400,7 @@
 			</Placemark>
 			<Placemark>
 				<name>LED LV light</name>
+				<TimeStamp><when>2010-11-15T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81764703363153</longitude>
 					<latitude>42.27895316972273</latitude>
@@ -3413,6 +3417,7 @@
 			</Placemark>
 			<Placemark>
 				<name>LED LV light</name>
+				<TimeStamp><when>2010-11-15T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81764703363153</longitude>
 					<latitude>42.27895316972273</latitude>
@@ -3429,6 +3434,7 @@
 			</Placemark>
 			<Placemark>
 				<name>LED LV light</name>
+				<TimeStamp><when>2010-11-15T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81764054856558</longitude>
 					<latitude>42.27907955659437</latitude>
@@ -3445,6 +3451,7 @@
 			</Placemark>
 			<Placemark>
 				<name>LED LV light</name>
+				<TimeStamp><when>2010-11-15T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81801646285398</longitude>
 					<latitude>42.27917114589041</latitude>
@@ -3461,6 +3468,7 @@
 			</Placemark>
 			<Placemark>
 				<name>LED LV light</name>
+				<TimeStamp><when>2010-11-15T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81801646285398</longitude>
 					<latitude>42.27917114589041</latitude>
@@ -3477,6 +3485,7 @@
 			</Placemark>
 			<Placemark>
 				<name>LED bollard</name>
+				<TimeStamp><when>2010-11-15T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81801646285398</longitude>
 					<latitude>42.27917114589041</latitude>
@@ -3493,6 +3502,7 @@
 			</Placemark>
 			<Placemark>
 				<name>LED bollard</name>
+				<TimeStamp><when>2012-12-03T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81733890825683</longitude>
 					<latitude>42.27894294358705</latitude>
@@ -3509,6 +3519,7 @@
 			</Placemark>
 			<Placemark>
 				<name>LED bollard</name>
+				<TimeStamp><when>2012-12-03T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81733890825683</longitude>
 					<latitude>42.27894294358705</latitude>
@@ -3525,6 +3536,7 @@
 			</Placemark>
 			<Placemark>
 				<name>LED bollard</name>
+				<TimeStamp><when>2012-12-03T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81813656085953</longitude>
 					<latitude>42.27912569461871</latitude>
@@ -3541,6 +3553,7 @@
 			</Placemark>
 			<Placemark>
 				<name>LED LV light</name>
+				<TimeStamp><when>2012-12-03T19:31:59Z</when></TimeStamp>
 				<LookAt>
 					<longitude>-83.81833989963893</longitude>
 					<latitude>42.27908198884789</latitude>
@@ -3557,6 +3570,7 @@
 			</Placemark>
 			<Placemark>
 				<name>East LV path</name>
+				<TimeStamp><when>2010-11-15T19:31:59Z</when></TimeStamp>
 				<styleUrl>#msn_ylw-pushpin</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -3567,6 +3581,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Central path phase 1</name>
+				<TimeStamp><when>2010-11-15T19:31:59Z</when></TimeStamp>
 				<styleUrl>#msn_ylw-pushpin0</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -3577,6 +3592,7 @@
 			</Placemark>
 			<Placemark>
 				<name>East path 1 phase 2</name>
+				<TimeStamp><when>2012-12-03T19:31:59Z</when></TimeStamp>
 				<styleUrl>#msn_ylw-pushpin5</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -3587,6 +3603,7 @@
 			</Placemark>
 			<Placemark>
 				<name>East path 2 phase 2</name>
+				<TimeStamp><when>2012-12-03T19:31:59Z</when></TimeStamp>
 				<styleUrl>#msn_ylw-pushpin2</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -3597,6 +3614,7 @@
 			</Placemark>
 			<Placemark>
 				<name>West path phase 2</name>
+				<TimeStamp><when>2012-12-03T19:31:59Z</when></TimeStamp>
 				<styleUrl>#msn_ylw-pushpin4</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
