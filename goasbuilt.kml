@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.1">
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>goasbuilt.kml</name>
 	<description>
@@ -8,7 +8,7 @@
 			Utility line paths at Great Oak Cohousing are
 			marked out in colors matching those specified
 			on the
-			<a href="http://www.missdig.net/Utility-Color-Codes/index.html">MISS DIG - Michigan's Utility Color Code</a>.
+			<a href="http://wwwa.missdig.org/MissDig/Utilitycolorcodes.htm">MISS DIG - Michigan's Utility Color Code</a>.
 
 		]]>
 	</description>
@@ -2292,6 +2292,18 @@
 					<when>2003-08-15T11:31:59Z</when>
 				</TimeStamp>
 
+			</Placemark>
+			<Placemark>
+				<name>DTE workshop gas line</name>
+				<open>1</open>
+				<TimeStamp><when>2009-08-01T11:31:59Z</when>
+</TimeStamp>
+				<styleUrl>#msn_ylw-pushpin_copy2000</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+-83.81888265685129,42.27914026291789,0 -83.81887929548775,42.27893595143439,0 -83.81887592144995,42.27880476978759,0 -83.81852811422451,42.27855502740285,0 </coordinates>
+				</LineString>
 			</Placemark>
 		</Folder>
 		<Folder>
